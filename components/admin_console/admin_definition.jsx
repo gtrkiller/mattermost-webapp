@@ -6111,26 +6111,6 @@ const AdminDefinition = {
                                 display_name_default: 'Onyx',
                             },
                             {
-                                value: 'default',
-                                display_name: 'default',
-                                display_name_default: 'default',
-                            },
-                            {
-                                value: 'organization',
-                                display_name: 'organization',
-                                display_name_default: 'organization',
-                            },
-                            {
-                                value: 'mattermostDark',
-                                display_name: 'mattermostDark',
-                                display_name_default: 'mattermostDark',
-                            },
-                            {
-                                value: 'windows10',
-                                display_name: 'windows10',
-                                display_name_default: 'windows10',
-                            },
-                            {
                                 value: 'canonicalLight',
                                 display_name: 'canonicalLight',
                                 display_name_default: 'canonicalLight',
