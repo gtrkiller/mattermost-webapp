@@ -6112,13 +6112,13 @@ const AdminDefinition = {
                             },
                             {
                                 value: 'canonicalLight',
-                                display_name: 'Canonical Light',
-                                display_name_default: 'Canonical Light',
+                                display_name: 'canonicalLight',
+                                display_name_default: 'canonicalLight',
                             },
                             {
                                 value: 'canonicalDark',
-                                display_name: 'Canonical Dark',
-                                display_name_default: 'Canonical Dark',
+                                display_name: 'canonicalDark',
+                                display_name_default: 'canonicalDark',
                             },
                         ],
                         isHidden: it.any(

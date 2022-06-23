@@ -128,8 +128,8 @@ const themeTypeMap: ThemeTypeMap = {
     Quartz: 'quartz',
     Indigo: 'indigo',
     Onyx: 'onyx',
-    'Canonical Dark': 'canonicalDark',
-    'Canonical Light': 'canonicalLight'
+    canonicalDark: 'canonicalDark',
+    canonicalLight: 'canonicalLight'
 };
 
 // setThemeDefaults will set defaults on the theme for any unset properties.

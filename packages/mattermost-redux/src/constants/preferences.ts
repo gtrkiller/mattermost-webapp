@@ -204,7 +204,7 @@ const Preferences = {
             codeTheme: 'monokai',
         },
         canonicalDark: {
-            type: 'Canonical Dark',
+            type: 'canonicalDark',
             sidebarBg: '#5e2750',
             sidebarText: '#ffffff',
             sidebarUnreadText: '#ffffff',
@@ -231,7 +231,7 @@ const Preferences = {
             codeTheme: 'github',
         },
         canonicalLight: {
-            type: 'Canonical Light',
+            type: 'canonicalLight',
             sidebarBg: '#5e2750',
             sidebarText: '#ffffff',
             sidebarUnreadText: '#ffffff',
